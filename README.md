@@ -6,8 +6,11 @@ This is a collection of Jane's side project.
 * [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## Contents
-- Theme Clock
-- To Do List
-
-- flex-direction: column;
+## Contents (Roadmap)
+[x] Theme Clock
+[ ] To Do List
+[ ] Hidden Search Widget
+[ ] Random Choice Picker
+[ ] Incrementing Counter
+[ ] Content Placeholder
+[ ] GitHub Profiles
