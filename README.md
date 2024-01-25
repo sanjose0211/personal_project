@@ -8,7 +8,10 @@ This is a collection of Jane's side project.
 
 ## Contents (Roadmap)
 - [x] Theme Clock
+      - needs more work on CSS and JS
 - [ ] To Do List
+      - needs more work (li does not check when clicked)
+      - needs work on JS code
 - [ ] Hidden Search Widget
 - [ ] Random Choice Picker
 - [ ] Incrementing Counter
