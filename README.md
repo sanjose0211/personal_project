@@ -7,11 +7,8 @@ This is a collection of Jane's side project.
 * [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Contents (Roadmap)
-- [x] Theme Clock
-      - needs more work on CSS and JS
-- [ ] To Do List
-      - needs more work (li does not check when clicked)
-      - needs work on JS code
+- [ ] To Do List w/ basic function
+- [ ] To Do List w/ complete function
 - [ ] Hidden Search Widget
 - [ ] Random Choice Picker
 - [ ] Incrementing Counter
